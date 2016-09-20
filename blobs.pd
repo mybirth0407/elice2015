@@ -1,0 +1,14 @@
+€cpandas.core.frame
+DataFrame
+q)?qcpandas.core.internals
+BlockManager
+q)?q(]q(cpandas.core.index
+_new_Index
+qcpandas.core.index
+Int64Index
+q}q(Udataq	cnumpy.core.multiarray
+_reconstruct
+q
+cnumpy
+ndarray
+qK
